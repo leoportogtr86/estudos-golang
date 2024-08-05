@@ -1,0 +1,18 @@
+# GoLand specific
+.idea/
+*.iml
+
+# Go specific
+/bin/
+/pkg/
+/vendor/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
